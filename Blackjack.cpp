@@ -1,8 +1,4 @@
 // blackjack.cpp.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//Anthony Jun Mai, 301477746
-// I did  implent advice feature based on research and expeerience from playing in real life
-//Academic honesty statement: I hereby confirm that this is my own work and I have not violated any of SFU’s Code of Academic Integrity and Good Conduct (S10.01).
-
 
 #include <iostream>
 #include <cmath>

@@ -1,3 +1,3 @@
 # cpp-blackjack
 
-Blackjack game in C++.
+Console blackjack game in C++.
